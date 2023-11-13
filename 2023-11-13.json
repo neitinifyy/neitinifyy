@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Kim",
+  "age": 61,
+  "address": {
+    "street": "Rokri Glen",
+    "city": "Gizuse",
+    "state": "NY",
+    "zip": "44642"
+  },
+  "contact": {
+    "phone": "(569) 782-7056",
+    "servicePhone": "800275628"
+  },
+  "birthday": "1987-01-05T01:25:35.869Z",
+  "ip": "242.152.105.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Lem tafidic uluwevi ugipumuv ji futcogid vuccuvup lijov po hi tegu vale cinusri offi vil. Likolmo legdekbe vipor saharcow deumo mimfahbez vajel nuzlogev gewgoem puvjefof pobifeci tuh tojbesdiz. Rup jofgobuwo uko duv ocu tapi rujekwor ut jodiwaf zuv de ta dedkuj ma fotonhi tiz moddoiso.",
+    "bio": "Abiritban iso pe oco nar wicso lofeko abelofaf pi cejolek go buk go. Anezi opotaz ewi uhsi ta okdu covecu virwoj desuragu zi peb divluzsi pa mak ezepezu hapagod sa. Nipwu feb jurip haragupa juapo ja ibu ceguzeci un bid dusnubzim se sejuva fefo."
+  },
+  "apiKey": "6e9c4f1b5748908fe64ed3b72b3e42478de631258f3b669f3e0b305fe585989b",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
