@@ -1,0 +1,26 @@
+{
+  "name": "Todd Duncan",
+  "age": 37,
+  "address": {
+    "street": "Acezet Path",
+    "city": "Janaci",
+    "state": "NE",
+    "zip": "14868"
+  },
+  "contact": {
+    "phone": "(951) 295-6973",
+    "servicePhone": "800873624"
+  },
+  "birthday": "1977-01-08T16:59:36.040Z",
+  "ip": "70.6.29.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesjakov lanebhow wim riugi buiwo umje bew jabrah bujfaose ariho bonu la lipopawen luc. Wu wev mimegeri eticeb tavfoje juvtu zobe rumvep votkihu lab je wifta. Deztikmol ruena ibe sih jukura ja gepu vupej edaidzak paizo izicufej igocada. Makasado lafdaw se suoko emiebwo nirezuz nucib dazani egukesoj allu tewzanci jo jan ogwogin loko ibes vuke.",
+    "bio": "Habda nodu uj zaojoge fijcanbim luvjene irosefaf rijusle gunbe mukzakloz porufaciw onteveh leupvot ole nugu wifug uma biweneodu. Ci ihhor ra wujulri fer muc micu be sup kevaf pumwi mo. Ufaped piol unzo tibe lip bes lotib rov obison mehjuw opunul cokkoc."
+  },
+  "apiKey": "9f615dc3014d7cfbf7e954a88fb61ed0344eb6f91707097bc7357f4a9dc326ad",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
