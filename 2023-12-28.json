@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Stone",
+  "age": 34,
+  "address": {
+    "street": "Witef Place",
+    "city": "Kudsibuka",
+    "state": "GA",
+    "zip": "53995"
+  },
+  "contact": {
+    "phone": "(520) 550-8872",
+    "servicePhone": "800743169"
+  },
+  "birthday": "1980-03-25T03:09:54.121Z",
+  "ip": "107.178.66.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Izi uslein hi vojosram hegme zadik ram tofocik vatteh vukcag pub ze gowmophon. Soh wo bar dewco woz abu si nabrerbaw aplapwuc dujih toez kapage civijo laz. Dij birbad teh detene uto mum ticdu jesmig hezseg fi raado nu kulzo. Laadren wo viro inju kopadi iviili lok coapje ru ureucu torfeluh rob zonab ba boszune jabgidsad imobi eki. Keena libagowis ci dufino vofwidut rufu cohetag do cek viv wiz gakehuh upgezoh. Johijo dej afoes te cugsi tascunlo lu ek labkin ne jum oszulho dasro soviwvi zolac dewibwok li.",
+    "bio": "Ap wewidu wawazosem tuseje ihi igogocon vebvewak mij gidi ligadnu rok pob depah. Iz gokomak ajrirdod hu bephugmi nozu hiipaje navalge suizaek kep ufigdo lir um. Gendi bapiz opu jahsu ecpuwoh razauf jiiga loujoice dam unu etige pafaw mugej jus nibmoslu wa heroazi. Jesleg dahepoga owoca putguluf oc boke bedef suraci temco opnehpu lozdez cigosi patejmi zemmogaw."
+  },
+  "apiKey": "680d3f9d63ec3e0733b597289706c23ae7f172099cf36b7c2636fabdb8acd150",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
