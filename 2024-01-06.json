@@ -1,0 +1,26 @@
+{
+  "name": "Mable Torres",
+  "age": 55,
+  "address": {
+    "street": "Ihaj Plaza",
+    "city": "Sitejof",
+    "state": "OK",
+    "zip": "13157"
+  },
+  "contact": {
+    "phone": "(250) 625-6078",
+    "servicePhone": "800634614"
+  },
+  "birthday": "1974-06-17T17:50:22.672Z",
+  "ip": "157.1.69.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Rogufho uwafazav ge ipooso ajupaj tu af tafko agkasa razoz edrup lid zujege. Nuskemofi zu ki sovwobo dowanbi aw gepij woub nuzji muwukose loliz fadcera nop tazun. Uk picwoglo ledwi cac kalaud ve geji pafvap lakestav hupbeube wiw kin met weg.",
+    "bio": "Rageb biwid rivnegic fibciz bog awkuk ajuahcuw nu raotma jedum bo mukira edza sujbim hewlireru rocbalin. Uziri vuhcam dehi aghuhriv duohi nik mahifjo fe lu buh gabwutodo li komnolid rotiki uhi cecjuf. Putoh po govhu cosbetej venok to wejo wi ivcikne cufoj jo uburi tocuuha kepiro bahuj som."
+  },
+  "apiKey": "b02d4d897e18e137908c601ee8fc49c54343b0bffd0d44b82be4b77503b5e7ad",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
