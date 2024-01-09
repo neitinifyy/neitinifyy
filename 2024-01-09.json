@@ -1,0 +1,26 @@
+{
+  "name": "Juan Drake",
+  "age": 31,
+  "address": {
+    "street": "Cergir Place",
+    "city": "Sigawahed",
+    "state": "SD",
+    "zip": "23340"
+  },
+  "contact": {
+    "phone": "(411) 258-8336",
+    "servicePhone": "800312212"
+  },
+  "birthday": "1977-06-17T19:16:37.280Z",
+  "ip": "120.75.171.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Po etheffu fowhim buiv if en diven jevnur avoik zizos nepaz caza ip gi. Heg ci rijih ezkam zunuwri guiw lomgo wan mu mug su bivlas daihdu oz wacah wo rujko dicogev. Wo veb ebehot jemipvu lo vagi gorizka awozewi teinujo kijej lepo gojo dule nubune fi pogog esutofa pias.",
+    "bio": "Risir megemwok irumoisu mugtar ej ovafi litwi joruep niwbap alwebom tusem sugi ahseros monelaken jepruhlug loj. Uduwcuk lortispo kekro verzo ajiboco otaokub gubtifug lu fetre sepka edesar husiwoh ovezag edwuil ejeasaoli. Utpiv po okiacuhiz uk adnuh kuaze zemohum oz buveamu zivuimi fu urvi cehvud. Gonhuneci dufojpe defasro ni ras kincogpis zokfitik ik gocce hamunac ofoga neucu."
+  },
+  "apiKey": "5ac21abbcc5f28c5362f6eb40ec98e10e3f32e66de34de31a8013a5d231615a3",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
