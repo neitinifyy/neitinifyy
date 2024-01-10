@@ -1,0 +1,26 @@
+{
+  "name": "Jason Ruiz",
+  "age": 53,
+  "address": {
+    "street": "Tihaho Glen",
+    "city": "Weuroki",
+    "state": "KS",
+    "zip": "15679"
+  },
+  "contact": {
+    "phone": "(853) 347-2950",
+    "servicePhone": "800624839"
+  },
+  "birthday": "1991-10-25T03:36:32.994Z",
+  "ip": "208.101.163.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Jerus eji ug ej veje kefsezeg kusin ozu dab gagwus tarve zojwe ehvufim sandalfev. Fi nino tut nios aza oba silmutek non gap cik osmios kijeccir ve mecit selurerer haisoca. Ajiwena lanul ewo so jor ji sugwanit kuspin gec giphumzam se jegrenur now ilaor jac.",
+    "bio": "Maremu dahe faraj nehtidki dabueje mivoto olorebmi vomiv pazina te limisgam puf no. Longom gu daboda ishef ned bowem awer ar wi lo kikledos ju vakiv tuedigu jigufet ap gu koolna. Ejula olegeogo hufmi ozipauf sojnir pibel bievihes cewukti dakke rerzobdac je dim hupvuzwav karhimul. Ka feg jawo pepacgef raseazo iwanezi jetcanuj ihecaek iz ofudak pumon dilvun vocudaw wivcar etmo gir vifus veoji."
+  },
+  "apiKey": "9daae86f34887ee41f3d6aa649e4ddecb011d52f2e51605051641cbec7bae7bf",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
