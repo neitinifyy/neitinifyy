@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Briggs",
+  "age": 23,
+  "address": {
+    "street": "Facda Parkway",
+    "city": "Reovival",
+    "state": "NJ",
+    "zip": "79534"
+  },
+  "contact": {
+    "phone": "(576) 971-7236",
+    "servicePhone": "800855567"
+  },
+  "birthday": "1990-05-15T05:52:23.416Z",
+  "ip": "35.28.35.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Com waj dudduf pum dudju mirem anhu oboazo potwujen getle ore nowpi ip. Guj orvoh jegoba juhoze fusacco sud bev okgabin hi diev mowke su ezaojepit. Vitutidor lukmis sasip coorara wetovvej raf rogvenuj hasa ovolucri hausce cobji ar zeb jerpo igejo tezho daslec uzece. Zez jeet terzug osihi nubez mit ogaor bec ipzucope tuc gut bemonepe vib kiri lo.",
+    "bio": "Tenez uwpabmo vifuciko dikes otoso go ubuso uno hobu uhu liuha gadjo eckoj. Jag ban tek zahril feglonit ke uze kijnerew vepurda miwec ize guwjeeb ag bu. Eza barlores de ifu colmu jozeno kovuiji ubmuhut sab zoosu bezmab nastap tamcez. Guz gerfic tavi waof voknu dizgarsi unawuz fokwe he pemu lomu wiwauzi gewma ja. Himzuse obageksum bimajam wiji luhaw kufdi ibu tusez onaw ziini gamilnu seihuho kec enamuwoz racawror dugmi ushonzez. Suhesuzek fe witgu fugi povtalma mu za magrozvi kunelzi tife relakbe fe recahos unu zihlus."
+  },
+  "apiKey": "ed48ab963cde12bf724f34a847fd6fa9bd18040fcf0b1c67ad51ac3441368463",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
