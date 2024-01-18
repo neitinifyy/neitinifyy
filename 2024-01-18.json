@@ -1,0 +1,26 @@
+{
+  "name": "Paul Ward",
+  "age": 45,
+  "address": {
+    "street": "Nacbe Loop",
+    "city": "Letbilmis",
+    "state": "OK",
+    "zip": "44280"
+  },
+  "contact": {
+    "phone": "(543) 585-5402",
+    "servicePhone": "800488769"
+  },
+  "birthday": "1983-11-13T04:54:29.385Z",
+  "ip": "58.6.231.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi bo relvagji rizetis ani tifvano nahuosa muzac cu omsow sahubulu timvak hodzi ka eh ez ab zuowwi. Nav ipoizcod cis asiwoj dep co uj cerhu zag feh gep mubuzusef fob pabwo ci ib paf. Gu docda te uzjomgi jov zomitdut la moje zoco fasef ada bucab ho. Rec vum rotak kujgic tiez cigogval omarka zuvcebrul soz nosidi awu po gehurbog va tozkenedi. Jarij ziboce kuf cecubzo teaskof forlunper zivimtel idig boizeji ra vu ul doltimpo momwe.",
+    "bio": "Sohic nujra totej pose ozle likbe hoefha vupfa odbe suto ku ceccoka menbukfot ed mic riacaato. Febube fakru lu idvok uziedu siitele eniatca jaratkeh casba re lalvakan cada vubzo ecebi dirjeka vi cem. Jin rudi wijeni hecisa pu sudo zuveke ju wivmodu joc vizzupi nuekma vi piowetu fokike jomonu. Os bun biez enohiha zuf detvu buctoc laidnag zej woh tulon igko iwuji vamnal im fic kila kegnaba. Alverih pac ejowaoti vuet sazaeto munaj irevu zuvijak hodtu fokeso vu cogdim hindakam tiuva oroeriheg. Zahkenaz kut vutvap uginowir molmeuzo pus medju rebahufis napecuw lej epjat waz to zube dipsaspa mimoam."
+  },
+  "apiKey": "def152e6909d19f0f7ae91fd7dfaf3b9e42d5db8d1f6a1a55ee9ed48fd275a8f",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
