@@ -1,0 +1,26 @@
+{
+  "name": "Janie Murray",
+  "age": 60,
+  "address": {
+    "street": "Zuiha Park",
+    "city": "Gazafet",
+    "state": "DE",
+    "zip": "88582"
+  },
+  "contact": {
+    "phone": "(648) 326-2916",
+    "servicePhone": "800278557"
+  },
+  "birthday": "1984-10-23T11:48:09.884Z",
+  "ip": "144.222.182.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Jep dupzakip ob uzuji de zeretza ezerupgik hukodevi rabbi os bogecu cinloso imoweh ofuij be cuguga moc ojbifkaw. Latud riwfufig se zemuv nuv iliwip zi iz larmut raele dotve rueveob. Sekjoet betumico nozaccun imetugaz akzonguh agujos neffamhih uneiz sozucooli bubsalsi tipwuwuv kiiwili tur teb novsazowe.",
+    "bio": "Ke vilur en ticike to osota ecvovfe ka foolu owugumwu hafgocow ipmadlo von hejaddu sep rel tewuh. Nuz bifem heha doju jaaghen zugavu hogegmo uti goku hisukil wekbetru coc ligidak cankakciw gesip ama obirjel razij. Ovi kulanun igcek huli evkenor jahaje weg jikik ve kawat vi kapnod."
+  },
+  "apiKey": "d35bc51a60907382a01d9010356975196fcc7e7453b1c25ae4f742e51e844177",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
