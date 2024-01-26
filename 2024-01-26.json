@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Hunt",
+  "age": 31,
+  "address": {
+    "street": "Riija Drive",
+    "city": "Otjehca",
+    "state": "WA",
+    "zip": "77684"
+  },
+  "contact": {
+    "phone": "(840) 738-1051",
+    "servicePhone": "800382439"
+  },
+  "birthday": "1996-10-25T15:36:18.764Z",
+  "ip": "253.40.68.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Zisep pawefrak pe ob itworem welob mu bo zuk nizra ezajaw cejo opige. Tacmug revetra va nekihdup dashuz ogo ulfiwat si hewet jeh of pi gakili ipudijted losimu huj ezfavo. Olaep bofse wennez cuduc tipahe foetlod os howipeg vimzukis tam vafujel nekfo mometvol ego zo tobaz wuod cedzah. Vawo uso befli huom mugjiv ja pam je curuko obu ok rel gobzifew emafo korawwe nat olumel zine. Edu zov wobnasfe ojeake catwizo mowakesas do donlozis vegoke onocisen caawojan zuazi gocu.",
+    "bio": "Tagoado kezueso ga tu zuofomor isicaje nesaz cor panoum kug hovbimon abojas ikhe aha eb ifo rabu hid. Ukdi ga nevdob ekuho puzo setu usti armupen zusum joru ujbe zarlavaz vur otad hojvisi el. Keb rob jugijum facew kuw erihurbir hugnapad aloju cor soavjal cejar ubeano uc cevpa wufihzi. Vommeca beje sitob temdofo wamoem utu dag onfetehi fiwkijid addegva jupbis ga owa setacawil pinjaeja."
+  },
+  "apiKey": "104fb96d127d754ec6e7e5e78245d9c5eca687a36b961171b2cb112763a6e205",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
