@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Butler",
+  "age": 31,
+  "address": {
+    "street": "Judsa Square",
+    "city": "Miusofu",
+    "state": "OR",
+    "zip": "09568"
+  },
+  "contact": {
+    "phone": "(987) 596-5376",
+    "servicePhone": "800631238"
+  },
+  "birthday": "2001-12-29T10:51:16.382Z",
+  "ip": "30.12.61.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Peikeuce tat boacahak rot virgiaw erafanhaz je huz juusno udiuwaapu le narop muafaba nu cirvi bo ila ewigo. Lemoj furmovazu vojofah deeh raiferu reno le jukerwer rovkiz fubup mu vasip mi olbe bucipu. Des zuomma vanawzig ap lorbiagu sonotpik ki furivnih zolamna zu vade paw katah tu hahel tupocuve feg lesozi.",
+    "bio": "Lohbin feczu zi ehwuc uktom detbe osucic ukoolla eru bakimlej lov lokvi wecjod va. Sa liv tuzbiuz zizawe dunusi egedoes totlobewe rabeb in lejatu tiar zismip vizlakzej uspul er keja daejduc. Nab tafdab uv moj kofo codkim eduudko uki za fa usurete mabrivo. Ligefi fotohmap ehcuik juw udapva po vorveduk fe mowep resib ajedevme zukmew caonunod vot fohleg zalpem diki. Dife acempi sepjerag mafufoliv bawiz gem baar micrizi dov zuduru beis avubajut romtehe. Bu donrioc juw kefa ja ceeb jiw zab ni evregro ucjafsi cotapool. Va ga vojubfik nitittav gapa hirriic mer bimivu putgen te cewunzo bapi sokjewpa vizucco epono."
+  },
+  "apiKey": "f9167d41b89fea3f99e85de54eaf48711832ca7474082d3e87bdadeba0361dfb",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
