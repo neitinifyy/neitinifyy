@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Parks",
+  "age": 43,
+  "address": {
+    "street": "Borus Loop",
+    "city": "Apepeta",
+    "state": "IL",
+    "zip": "34815"
+  },
+  "contact": {
+    "phone": "(266) 861-7066",
+    "servicePhone": "800731836"
+  },
+  "birthday": "1977-05-16T17:47:04.501Z",
+  "ip": "74.211.118.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Katzepev feha botkab sos cacic huodzi dop iwomomup el runasji gaw rufado katca. Iwunera lib fejocim vakwifej niliz foteole je horluj vibeawa ca kasnardiv vo afa ramsu bad ulnonik lusep giwmo. Zosic cesta cendelu ja mijguuse bupif azparul cag vadwebda gad wipus zejteuk me faj. Hozatu ufa ciloge lifit si uj ret diju ugubuh pe he saoh inasiimi icahasane bezsecas sajuze uk. Hu nep mepuzeh walnijeg wu hasutta ishinon wehaawe jo gan visufolog guv nawi.",
+    "bio": "Du nur boszoik ikeisizu gituji maz loic lo ti co ukuvmon eruzewa. Kuweceov uhonabjo giva ewhievo maej gukfu fi ur osku paf guz zebamsid pi dipwenil uvifuriw ki seblawvic. Kufikew mazolipef za ur hoemkuw to gogu rukigozol arabac ifte mejsuhnib acojge wega puzcev mi putjofelo."
+  },
+  "apiKey": "5bca9acb4b6a9c7fbd34ede540763b124c12b164de0093b2db0eb94c18c040e8",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
