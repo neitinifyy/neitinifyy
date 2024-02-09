@@ -1,0 +1,26 @@
+{
+  "name": "Jose Cook",
+  "age": 48,
+  "address": {
+    "street": "Cuego Turnpike",
+    "city": "Doboge",
+    "state": "KS",
+    "zip": "67716"
+  },
+  "contact": {
+    "phone": "(403) 914-8343",
+    "servicePhone": "800969616"
+  },
+  "birthday": "1964-09-05T21:58:44.485Z",
+  "ip": "45.142.224.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Jesusfu nuwcorir de du da run ewika wo zubjuma defrozo oci mes olaeperuw bazze owavepgu ku. Ho zehir vozcav tat sopwu fogo gevvep afi juz tol ir ef lewum jovcuzebu. Hozvetbof vas lecole low maipa vez unewa akusuaz packup edefoebu favtiari puire. Fe fobmus vovive bobaafe tecgosfo caghiver tufore bad vonas avu vugusitip tegka nuzlajto udi aho liwe.",
+    "bio": "Zuttamac sil ado hiafi avot gi piloszo led toifahip ofiho igjizro sidebul amivup. Marer buamji sogcur tiru jinhi of zat zopij govo gohal rama lojmuom wubtivul kegu. Tenge pislicsek maj nolkeri nor pofihne vi se kuih cimnuhe mesiba tag nosce."
+  },
+  "apiKey": "507ac95a2ccf474f1d5ed6674468dacef4bbc8c088e3d845373853b1ea7578ec",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
