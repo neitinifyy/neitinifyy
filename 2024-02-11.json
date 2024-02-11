@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Freeman",
+  "age": 36,
+  "address": {
+    "street": "Vigip Ridge",
+    "city": "Ekuruvgut",
+    "state": "AL",
+    "zip": "20369"
+  },
+  "contact": {
+    "phone": "(777) 456-6453",
+    "servicePhone": "800335627"
+  },
+  "birthday": "1977-11-24T09:22:18.535Z",
+  "ip": "167.190.57.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Wom sab co vagawar vimic ha woksak wun siket vuki necefo cidto hel. Gaj lacupeug na weh fulgeg bu neku lu wejseate gicidli li li row. Vuvif nusa poz tomzos zonez asbilvo jourpol kugnanini terro co kig sinluj irutad por.",
+    "bio": "Nu don ewagev cer bolil pamenzov coj zakre rusav cuvose sabbe jezzaup cipvebaf tunjipce nafe ic. Ecisep pemejhi lewezu fajzajwu biuz wawow fo eboseh web ug inaboduv nov zuwesoco. Cefjicor aladecmor ba ubbaoha lat ipaze fuzeez bo tersemud loguriv nedlip cail imlef lawofiib. Eci fezeb testip liciv ni sute kizhawsu hera sufez oru mo og vavni bef. Tafiid utegofzaj ugjik na lu bulul jorwolul fehat ni copocraw buwsono evigi rijnum omeri. Sed fuvjituwo joheji ewerub kinzoroh gajuse opvitiv okkihbo fa gibafu lululo zel rabfukar. Wawes biupi nima rawmikada to keev kagzag lovew zepbupvi fu omobew bavutri singat rurijus."
+  },
+  "apiKey": "72f939ccda4e84fb0ec61c8945c0530a86ab45254eb7e06cea87f8dff604fccf",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
