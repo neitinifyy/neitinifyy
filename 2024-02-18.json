@@ -1,0 +1,26 @@
+{
+  "name": "Danny Hicks",
+  "age": 51,
+  "address": {
+    "street": "Konvu Key",
+    "city": "Keinoz",
+    "state": "MT",
+    "zip": "19970"
+  },
+  "contact": {
+    "phone": "(686) 387-2502",
+    "servicePhone": "800579336"
+  },
+  "birthday": "2000-11-30T07:37:42.703Z",
+  "ip": "99.199.41.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Sogoso bebwerac bab dam mu gopelmaw usupeod kelo uji vimijem ov bawpi olo ho. Iwifize taf volazme za gugpup kita ipez netakho te sos juc le jukocag sawurdav ronpe. He ge fukju hasogtib li nocemab gejnemag zucew eluuwueto go fuhvonjes omilugtuk ug factibo. Da usrit komkuwse mecize pemo mobrouvu zediv neziov ca aziwa vodwer fubuij lo fuzime fo ke.",
+    "bio": "Dalgafih warhosvod kat ov leotva kohatci nejifhe nos de ri le jiw baf jevet. Petalgu ku ku gol zap em cukwiaru raututef dumkij bofel nat lem ler rormito dumowli pol atu vecjoz. Imarakco wa itakir wartud zusdan bavbo age asub nadzo dov iz ropgi afebafwu lavunuf."
+  },
+  "apiKey": "60855466b3bff206bf67760e4463ba71ecab682512acfcd4aef2528fc9d27321",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
