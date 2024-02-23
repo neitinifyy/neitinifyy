@@ -1,0 +1,26 @@
+{
+  "name": "Lida Day",
+  "age": 64,
+  "address": {
+    "street": "Duwje Lane",
+    "city": "Cepnasun",
+    "state": "MA",
+    "zip": "84554"
+  },
+  "contact": {
+    "phone": "(452) 980-2227",
+    "servicePhone": "800583327"
+  },
+  "birthday": "1984-06-24T12:29:51.167Z",
+  "ip": "122.57.243.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Conofi gahnek fegunto ni vewutod mij vufhisag lu nas gocda akuapemoj macojo mubugim. Oju caknuzoh becmus reaccup ju paet gegapa fucaw pew am sok guuriihe. Ucnuvgi jokobpu ra fafaj funahtan ji musu navel votzufo tutinos id ek hivumemom did hudraun agilagik.",
+    "bio": "Poroz macbozdo guboedi memtorcu tiunvuw kuhni da osoru bifum sobsim emieb agur. Afeelumin oju zihluzed edogedmaj arulam ike pu bus sov zaeh abeuv osi on gow. Dufseip de izo dignag kid lijvi nom siw so avmak wizerik fava lugun sidmido bafdassih girifek."
+  },
+  "apiKey": "d2f97ad3613bf58dae5c607cf48282e1a2011b5e214fcdade2d1fe5b79e3c1d7",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
