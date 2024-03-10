@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Chambers",
+  "age": 35,
+  "address": {
+    "street": "Liwumi Grove",
+    "city": "Wewunpof",
+    "state": "MT",
+    "zip": "05907"
+  },
+  "contact": {
+    "phone": "(855) 368-4368",
+    "servicePhone": "800256247"
+  },
+  "birthday": "1975-02-09T12:14:25.784Z",
+  "ip": "180.140.59.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Morme kama rodmegac huki vamal ahtu sot ecuek sam uhi rowu adenavuz bor fobgun vut. Vem labul nesi bikoli poknot jo rah kelferfi kut zeflipha peeka kibis vawil gewlemfem uvugepok zeb. Fupzunig luli cug ob omo ah gaselfew gedizeb bunejzer lauzi fijuran wofwowi al. Palafaf risduwoge ovcahe cohfuzok bopim op je ninfec bifuf pal zetviphu bodvej hofezfe gej genjuwvov afezis vocewse. Vatso vihwe ape saeg bunec wazhod cozic co oluze wuv bapke uwuuv bewu.",
+    "bio": "Nimawe ravip ep wul abwid bipu wujalaj bajpo nino lo zipwojwa apu uhapev cobagar gimi. Aheguhen je div ucika fobfapjuj lafof pu fazuja tullib juvagmez tuwe jabaetu niw gim ti vosu. Ulo epjokgi nur coake fu jawwid saposoma we ep kuf raw be."
+  },
+  "apiKey": "6ffaee1775de94e33e4356773a51a51f900fa931928b08867e3f6cae7a095736",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
