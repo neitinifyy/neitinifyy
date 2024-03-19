@@ -1,0 +1,26 @@
+{
+  "name": "Landon Simmons",
+  "age": 42,
+  "address": {
+    "street": "Dimi Square",
+    "city": "Gudvumir",
+    "state": "SC",
+    "zip": "37020"
+  },
+  "contact": {
+    "phone": "(231) 702-5566",
+    "servicePhone": "800165863"
+  },
+  "birthday": "1974-07-27T17:17:51.554Z",
+  "ip": "77.61.30.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa zeb jap devacaz ivele ur kuro napofem eteesifa rafpa vevhocpa vic ic bupsar miwifep wun danlazik aw. Decmadut liwfo vasjup istabrin tirho joklusde co ocpakep fikhib na enite ora ne lolej mefur cownip. Ozavja ikoehoeg mesuz ez zo wokfewgus popu ni zezsepvil sib odgi wu nu baga jete tif iluhed.",
+    "bio": "Pewevhaz mec liivel pirovbok devil suakme fukuuli zujut gas wigbus mak bef. Wumkarun erimob kid pe fu fuw miil lifda giswamfet zutusa po gerle garur goj gaud. So zobivlu sahed mumokbo bepo iji sog wilzom ala nivri make ise sos iztehe fenocne davu tukajul. Ifepa cozgosvob we mul lige ireocihup apmo ni wowle salcuica da powkiznu."
+  },
+  "apiKey": "759b15afa981c67bfa790d3ba44562c5d7430c94cb82d1bf11fa2708605fc7fe",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
