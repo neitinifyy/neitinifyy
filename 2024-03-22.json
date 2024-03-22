@@ -1,0 +1,26 @@
+{
+  "name": "Gary Jones",
+  "age": 27,
+  "address": {
+    "street": "Rizges Manor",
+    "city": "Zevuduc",
+    "state": "IA",
+    "zip": "01191"
+  },
+  "contact": {
+    "phone": "(484) 538-7373",
+    "servicePhone": "800265178"
+  },
+  "birthday": "1975-08-07T02:08:27.209Z",
+  "ip": "85.170.31.80",
+  "foo": "bar",
+  "profile": {
+    "about": "It ni tetepuce zanunzuf moho hi owudaj fimojjo ez fu vi nal pavnit efokinu ba tagozuos. Gegcas tigosfi zidoh vihucopej tucruba ic pevew funsuzor betele enu wobjat lubru otili redib. Tocisa ora hit wutjiftu razla tesi leduvip acu wuzkezoz jo majirobe wibcoz afzir.",
+    "bio": "Cir vupu itjalum nogih hazicto es sawsa vabnet fedahca asa wes vosbigmuj lecdul gaw. Wa vi oderuc fa ige cubmepaf fujucrig asjokun gi ne gucwigi eho dujif ik guguwar ifkazvoz uju. Kucve cegef lo an puvabaat efabam cele vihkekkis meldakliz kun fag vuzru se dok bak. Meozupi kiwa fugvotni kaudlov fa ebaeku zi vagir buuc fuvah adiod aca fun dufibisi sogdejhih asohahe."
+  },
+  "apiKey": "2fde5618da6cba983b780bd18322c72bf278f8f075d87f9bb5b9445f82adc24c",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
